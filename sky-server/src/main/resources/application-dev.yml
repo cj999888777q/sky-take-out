@@ -7,10 +7,10 @@ sky:
     username: root
     password: root
   alioss:
-    endpoint: oss-cn-beijing.aliyuncs.com
-    access-key-id: LTAI5tJ7UkCrrTAcdy3uEvMG
-    access-key-secret: jTPykQ4y1uzeyy1HVzAwHiBZ1BzVvt
-    bucket-name: java-aiwebmiss
+    endpoint:
+    access-key-id:
+    access-key-secret:
+    bucket-name:
   redis:
     host: localhost
     password: 123456
